@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+daphne
+python-dotenv
+pillows
+django-allauth
